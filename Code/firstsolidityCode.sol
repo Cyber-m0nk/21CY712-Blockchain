@@ -4,7 +4,7 @@ contract Storage {
 
 //State Variables
 
-uint256 rollNumber; // Store the Roll Number of the Student
+uint256 rollNumber; // Store the Roll Number of Student
 
 string name; // Store the Name of the Student
 
